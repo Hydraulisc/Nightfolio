@@ -1,2 +1,2 @@
 # Nightfolio
-upgraded-disco was taken.
+A local-first, fully customizable worldbuilding system
